@@ -4,12 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        SortedArray arr = new SortedArray();
+        // insert the number of integers to sort
+        SortedArray arr = new SortedArray(5);
 
         // check the sorting
-        int[] insertedArr = arr.getIntegers(5);
-        int[] sortedArr = arr.sortIntegers(insertedArr);
-        arr.printIntegers(sortedArr);
+        arr.printIntegers();
 
 
 
