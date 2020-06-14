@@ -12,6 +12,6 @@ This is the only method that can be used in the Main class. It gives a user an a
 For further explanation and functionality see the comments in my code.<br><br>
 
 
-If you have any remarks and/or suggestions to my code, plese let me know.
+If you have any remarks and/or suggestions to my code, please let me know.
 
 Have fun!
